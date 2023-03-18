@@ -9,6 +9,8 @@
 8-> git status
 9-> git commit 
 10-> git push(no need to righe branch name)
-
+11-> git branch -M main
+12 -> git remote add origin https://github.com/Pratik67796/imp-admin-panal.git
+13-> git push -u origin main
 
 11-> merge reqvest is pending
