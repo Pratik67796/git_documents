@@ -1,0 +1,6 @@
+0-> git clone https url
+1-> git init
+2-> git ststus
+3-> git branch pratik(pratik is branch name)
+4-> git branch (for check all branchs)
+5-> git checkout(branch name (pratik is branch name so it is redirect me to that branch)) 
