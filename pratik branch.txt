@@ -4,3 +4,11 @@
 3-> git branch pratik(pratik is branch name)
 4-> git branch (for check all branchs)
 5-> git checkout(branch name (pratik is branch name so it is redirect me to that branch)) 
+6-> git add . (add all file)
+7-> swit to the branch that you want to push
+8-> git status
+9-> git commit 
+10-> git push(no need to righe branch name)
+
+
+11-> merge reqvest is pending
